@@ -1,0 +1,7 @@
+{
+  "files.associations": {
+    "*.tag": "html",
+    "algorithm": "cpp",
+    "random": "cpp"
+  }
+}
