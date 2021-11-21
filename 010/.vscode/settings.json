@@ -1,0 +1,9 @@
+{
+  "files.associations": {
+    "*.tag": "html",
+    "random": "cpp",
+    "iostream": "cpp",
+    "queue": "cpp",
+    "stack": "cpp"
+  }
+}
