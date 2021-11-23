@@ -1,0 +1,8 @@
+{
+  "files.associations": {
+    "*.tag": "html",
+    "complex": "cpp",
+    "valarray": "cpp",
+    "cmath": "cpp"
+  }
+}
